@@ -1,14 +1,14 @@
 {
-  "name": "pancakeswap-peripheral",
+  "name": "@1ech/1ech-swap-periphery",
   "version": "1.1.0-beta.0",
-  "description": "🎚 Peripheral smart contracts for interacting with pancake",
+  "description": "🎚 Peripheral smart contracts for interacting with 1ech",
   "engines": {
     "node": ">=10"
   },
-  "homepage": "https://pancakeswap.finance",
+  "homepage": "https://1ech.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pancakeswap/pancake-swap-periphery.git"
+    "url": "https://github.com/1ech/1ech-swap-periphery.git"
   },
   "files": [
     "build",

@@ -1,6 +1,6 @@
 # 1ech Router
 
-### Bsc-Test
+### Echelon-Test
 
 The following assumes the use of `node@>=10`.
 
