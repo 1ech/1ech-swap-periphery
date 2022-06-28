@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import './interfaces/IPancakePair.sol';
+import '../interfaces/IPancakePair.sol';
 import './FixedPoint.sol';
 
 // library with helper methods for oracles that are concerned with computing average prices

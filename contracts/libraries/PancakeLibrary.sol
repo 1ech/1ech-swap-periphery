@@ -1,6 +1,6 @@
 pragma solidity >=0.5.0;
 
-import './interfaces/IPancakePair.sol';
+import '../interfaces/IPancakePair.sol';
 
 import "./SafeMath.sol";
 
